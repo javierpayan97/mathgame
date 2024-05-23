@@ -1,7 +1,6 @@
 import random
 
 def calculate(n1,n2,o):
-    n_total_int = 0
     while True:
         n_total_str = input(f"{n1} {o} {n2} = ")
         try:
